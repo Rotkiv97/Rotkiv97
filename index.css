@@ -1,0 +1,15 @@
+
+.text-P{
+    color: gold;
+    text-align: center;
+    transition: color 0.1s ease;
+    border-right: 5vw solid red;
+    border-left: 5vw solid red; 
+}
+
+.image-V{
+    margin: 0 auto;
+    height:70vw;
+    width:50vw;
+}
+

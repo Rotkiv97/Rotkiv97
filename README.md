@@ -1,21 +1,7 @@
-<style>
-    .text-P{
-        color: gold;
-        text-align: center;
-        transition: color 0.1s ease;
-        border-right: 5vw solid red;
-        border-left: 5vw solid red; 
-    }
-
-    .image-V{
-        margin: 0 auto;
-        height:70vw;
-        width:50vw;
-    }
-</style>
+<link rel="stylesheet" href="index.css">
 
 <div class="image-V" >
-    <img src="vic.jpg" alt="Victor" width="100%" height="100%" position="absolute">
+    <img src="vic.jpg" title="Victor" width="100%" height="100%" position="absolute">
 </div>
 
 ---
@@ -95,8 +81,6 @@
 
 # Collaborative projects
 #
-# [Minishell](https://github.com/Rotkiv97/minishell)
-# [Cube3D](https://github.com/Rotkiv97/cub3D) 
+# [Minishell](https://github.com/Rotkiv97/minishell) collaborazione con [Coluyanson](https://github.com/Coluyanson)
+# [Cube3D](https://github.com/Rotkiv97/cub3D) collaborazione con [Coluyanson](https://github.com/Coluyanson)
 </div>
-
-<!-- collaborazione con [Coluyanson](https://github.com/Coluyanson) -->
