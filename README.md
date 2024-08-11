@@ -71,6 +71,17 @@
 
 # Collaborative projects
 #
-# [Minishell](https://github.com/Rotkiv97/minishell) collaborazione con [Coluyanson](https://github.com/Coluyanson)
-# [Cube3D](https://github.com/Rotkiv97/cub3D) collaborazione con [Coluyanson](https://github.com/Coluyanson)
+# [Minishell](https://github.com/Rotkiv97/minishell) in collaboration with [Coluyanson](https://github.com/Coluyanson)
+# [Cube3D](https://github.com/Rotkiv97/cub3D) in collaboration with [Coluyanson](https://github.com/Coluyanson)
+</div>
+
+<div style="text-align: center;">
+
+#
+#
+# Resolutions in the future
+## Even though I haven't delivered C# projects on GitHub yet, I'm studying it with Unity, and will most likely also deliver many meshes with blender.
+## While in HTML, CSS and JS I am carrying out a project that I will deliver soon in collaboration, and I think I will deliver many projects with these languages
+
+
 </div>
