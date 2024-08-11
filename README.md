@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="index.css">
 
 <div class="image-V" >
-    <img src="vic.jpg" title="Victor" width="100%" height="100%" position="absolute">
+    <img src="vic_02.jpg" title="Victor" width="100%" height="100%" position="absolute">
 </div>
 
 ---
