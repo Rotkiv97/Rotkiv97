@@ -1,14 +1,4 @@
 <link rel="stylesheet" href="index.css">
-
-<div class="image-V" >
-    <img src="vic_02.jpg" title="Victor" width="100%" height="100%" position="absolute">
-</div>
-
----
-#
-#
-#
-
 <div class="text-P">
 
 # Hello, I'm Victor Guidoni, I welcome you to my GitHub account
