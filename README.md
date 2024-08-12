@@ -7,7 +7,7 @@
   </video>
 </div> -->
 
-![GIF Animation](video_gif.gif)
+![GIF Animation](/Gif/video_gif.gif)
 
 
 
