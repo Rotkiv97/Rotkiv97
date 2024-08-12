@@ -1,11 +1,15 @@
 <link rel="stylesheet" href="index.css">
 
-<div align="center">
+<!-- <div align="center">
   <video width="1000vw" height="440vw" loop autoplay muted>
     <source src="animation_blender_vik.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
+
+![GIF Animation](video_gif.gif)
+
+
 
 
 
