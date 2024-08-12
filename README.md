@@ -21,6 +21,15 @@
 
 ---
 
+# Worck Ambition
+
+> ##  Game developer
+> ##  Website developer
+> ##  Developer augmented reality 
+> ##  App developer
+
+---
+
 
 # Developer tools ⚒️
 <div class style="text-align: center;">
@@ -54,6 +63,14 @@
 #
 # [Minishell](https://github.com/Rotkiv97/minishell) in collaboration with [Coluyanson](https://github.com/Coluyanson)
 # [Cube3D](https://github.com/Rotkiv97/cub3D) in collaboration with [Coluyanson](https://github.com/Coluyanson)
+
+---
+
+# Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rotkiv97&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rotkiv97&layout=compact&show_icons=true&theme=dark)
 
 ---
 
