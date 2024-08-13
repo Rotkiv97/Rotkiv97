@@ -14,7 +14,7 @@
 
 ---
 
-# Worck Ambition
+# Job Ambitions
 
 > ##  Game developer
 > ##  Website developer
